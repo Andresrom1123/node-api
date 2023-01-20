@@ -1,0 +1,50 @@
+[
+	{
+		"id": "1",
+		"name": "mazda"
+	},
+	{
+		"id": "2",
+		"name": "toyota"
+	},
+	{
+		"id": "3",
+		"name": "bmw"
+	},
+	{
+		"id": "4",
+		"name": "audi"
+	},
+	{
+		"id": "5",
+		"name": "ferrari"
+	},
+	{
+		"id": "6",
+		"name": "suzuki"
+	},
+	{
+		"id": "7",
+		"name": "hyundai"
+	},
+	{
+		"id": "8",
+		"name": "honda"
+	},
+	{
+		"id": "9",
+		"name": "ford"
+	},
+	{
+		"id": "10",
+		"name": "fiat"
+	},
+	{
+		"id": "11",
+		"name": "chevrolet"
+	},
+	{
+		"id": "12",
+		"name": "nissan"
+	}
+]
